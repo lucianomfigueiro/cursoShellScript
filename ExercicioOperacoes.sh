@@ -1,17 +1,17 @@
 #!/bin/bash
 
 ##############################################################
-#                        			             #
-# ExercicioOperaçoesValores				     #           
+#                        			                            #
+# ExercicioOperaçoesValores				                      #           
 # Autor: Luciano Maciel Figueiro -(luciano.teste37@gmail.com)#
-# Data Criação: 25/08/2021				     #
-#							     # 
+# Data Criação: 25/08/2021				                         #
+#							                                        # 
 # Descrição: Script que recebe dois valores e apresenta um   #
-# 	     menu de opçoes para calcular os valores	     #
-# 	     						     #
-#							     #
-# Exemplo de uso: ./ExercicioOperacoesValores.sh	     #
-#							     #
+# 	     menu de opçoes para calcular os valores	             #
+# 	     						                                     #
+#							                                        #
+# Exemplo de uso: ./ExercicioOperacoesValores.sh	          #
+#							                                        #
 ##############################################################
 
 read -p "Informe o primeiro valor: " VALOR1
